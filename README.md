@@ -1,4 +1,4 @@
-## Hola, I'm Shubham Gupta <img src="https://raw.githubusercontent.com/Shubham6697/Shubham6697/master/gifs/Hi.gif" width="30px"></h2>
+## Hola, I'm Shubham Gupta 👋
 
 <a href="https://twitter.com/Shubham6697">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
