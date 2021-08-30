@@ -30,7 +30,7 @@ I'm a final year student pursuing Master of Computer Application 🎓 from Banar
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
+- 🔭 I’m currently working on Node.js, Express.js, React, Django, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: shubham.bhu.mca@gmail.com | [LinkedIn](https://linkedin.com/in/Shubham6697) | [Twitter](https://twitter.com/Shubham6697) | [Instagram](https://instagram.com/Shubham6697) | [Portfolio](https://Shubham6697.github.io/)
