@@ -1,18 +1,16 @@
 ## Hola, I'm Shubham Gupta 👋
 
-<a href="#">
-  <img align="left" alt="Shubham's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/shubham-gupta-40b09b148/">
   <img align="left" alt="Shubham's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Shubham6697">
   <img align="left" alt="Shubham's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="#">
+<a href="https://t.me/Shubham_BHU2k18">
   <img align="left" alt="Shubham's Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="#">
+<a href="https://www.instagram.com/shub_ham1/">
   <img align="left" alt="Shubham's Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com/Shubham-BHU/">
