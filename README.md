@@ -45,6 +45,6 @@ I'm a final year student pursuing Master of Computer Application 🎓 from Banar
 
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Shubham6697&show_icons=true&locale=en&layout=compact)
 
-![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Shubham6697&)
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Shubham6697&show_icons=true&hide_border=true&show_icons=true&locale=en)
 
 ⭐️ From [Shubham6697](https://github.com/Shubham6697)
