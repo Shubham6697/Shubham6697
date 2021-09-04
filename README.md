@@ -33,7 +33,7 @@ I'm a final year student pursuing Master of Computer Application 🎓 from Banar
 - 🔭 I’m currently working on Node.js, Express.js, React, Django, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: shubham.bhu.mca@gmail.com | [https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://linkedin.com/in/Shubham6697) | [Twitter](https://twitter.com/Shubham6697) | [Instagram](https://instagram.com/Shubham6697) | [Portfolio](https://Shubham6697.github.io/)
+- 📫 How to reach me: shubham.bhu.mca@gmail.com |<a href="https://linkedin.com/in/Shubham6697"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20px" > </a> | [Twitter](https://twitter.com/Shubham6697) | [Instagram](https://instagram.com/Shubham6697) | [Portfolio](https://Shubham6697.github.io/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:shubham.bhu.mca@gmail.com?Subject=Hello%20Shubham) 👨‍💻.
