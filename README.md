@@ -41,7 +41,7 @@ I'm a final year student pursuing Master of Computer Application 🎓 from Banar
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shubham6697&show_icons=true&hide_border=true&show_icons=true&locale=en)    
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shubham6697&show_icons=true&hide_border=true&show_icons=true&theme=dark&locale=en)    
 
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Shubham6697&show_icons=true&locale=en&layout=compact)
 
